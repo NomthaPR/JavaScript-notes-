@@ -76,7 +76,7 @@ Understanding boolean conversion is essential for writing logical operations and
 
 
 
-The Document Object Model and JavaScript Syntax
+The Document Object Model and JavaScript Syntax (Application programming interface)
 The Document Object Model (DOM) serves as an essential interface for HTML and XML documents in web development. It offers two main functionalities:
 Structural Representation: The DOM provides a structured representation of the document, defining elements, attributes, and their relationships within the document tree.
 Access from Script: It specifies how this structured representation can be accessed and manipulated from scripting languages such as JavaScript. This enables developers to interact with and modify the content, structure, and styling of web pages dynamically. By leveraging the DOM, web developers can programmatically access and manipulate various elements and attributes of HTML documents, enabling dynamic and interactive web experiences.
